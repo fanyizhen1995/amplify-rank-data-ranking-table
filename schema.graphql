@@ -1,0 +1,5 @@
+type Rank @model {
+  id: ID!
+  name: String!
+  score: Float
+}

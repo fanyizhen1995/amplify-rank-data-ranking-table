@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-redpacket-data-get-dev-135726-authRole",
+            "UnauthRoleArn": "arn:aws:iam::456306458004:role/amplify-redpacket-data-get-dev-135726-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::456306458004:role/amplify-redpacket-data-get-dev-135726-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-redpacket-data-get-dev-135726-deployment",
+            "UnauthRoleName": "amplify-redpacket-data-get-dev-135726-unauthRole",
+            "StackName": "amplify-redpacket-data-get-dev-135726",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:456306458004:stack/amplify-redpacket-data-get-dev-135726/ce40d790-2d24-11ea-bd00-0e2825cd3a94",
+            "AmplifyAppId": "d2z2nl3tc7kanu"
+        }
+    }
+}
